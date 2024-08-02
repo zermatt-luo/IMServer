@@ -2,7 +2,7 @@
 
 本项目参考蘑菇街C++ 开源项目TeamTalk。TeamTalk是一款企业内部用的即时通讯软件。
 
-项目地址github：[https://github.com/baloonwj/TeamTalk](https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2Fbaloonwj%2FTeamTalk)
+项目地址github：[https://github.com/baloonwj/TeamTalk](https://github.com/balloonwj/TeamTalk)
 
 整体架构流程说明参考文档：[TeamTalk源码解析](https://gitee.com/zxbing/CppGuide/blob/master/articles/TeamTalk%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/03%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E7%9A%84%E7%A8%8B%E5%BA%8F%E6%9E%B6%E6%9E%84%E4%BB%8B%E7%BB%8D.md)
 
