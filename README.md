@@ -68,7 +68,7 @@ route_server
 
 上面介绍的每一个服务都使用了相同的网络通信框架，该通信框架可以单独拿出来做为一个通用的网络通信框架。该网络框架是在一个循环里面不断地检测IO事件，然后对检测到的事件进行处理。流程如下：
 
-1. 使用IO复用技术（linux和windows平台用select、mac平台用kevent）分离网络IO。
+1. 使用IO复用技术（windows平台用select, linux平台用epoll, mac平台用kevent）分离网络IO。
 
 2. 对分离出来的网络IO进行操作，分为socket句柄可读、可写和出错三种情况。
 
